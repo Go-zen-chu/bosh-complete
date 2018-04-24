@@ -2,7 +2,7 @@
 
 Auto-completion for the BOSH CLI.
 
-# Installation
+![](./docs/demo.gif)
 
 **Supports v2 and v3**
 
